@@ -3,7 +3,7 @@
 This repository contains the code, data, and replication materials for the paper:
 
 **"Structural Hazards in Global Production: A Graph Neural Network Approach to Sectoral Survival"**  
-by Diego Vallarino (2025), submitted to *Structural Change and Economic Dynamics*.
+by Diego Vallarino (Working Paper 2025).
 
 ## 1. Overview
 
@@ -63,7 +63,7 @@ This will:
 If you use this code or reproduce the analysis, please cite:
 
 ```
-Vallarino, D. (2025). Structural Hazards in Global Production: A Graph Neural Network Approach to Sectoral Survival. Structural Change and Economic Dynamics (under review).
+Vallarino, D. (2025). Structural Hazards in Global Production: A Graph Neural Network Approach to Sectoral Survival. Working Paper.
 ```
 
 ## 7. License
